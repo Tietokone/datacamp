@@ -1,2 +1,2 @@
-# datacamp_courses
+# datacamp
 projects
